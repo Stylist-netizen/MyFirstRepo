@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+
+My name is Ekpa Daniel Egwoke
+This is my beginning journey into linux and version control at alx pathway.
